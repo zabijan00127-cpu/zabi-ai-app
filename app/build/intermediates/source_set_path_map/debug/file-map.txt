@@ -1,0 +1,7 @@
+com.zabi.al.builder.app-pngs-0 /data/data/com.termux/files/home/ai-chatbot/templates/android_webview_mvp/app/build/generated/res/pngs/debug
+com.zabi.al.builder.app-resValues-1 /data/data/com.termux/files/home/ai-chatbot/templates/android_webview_mvp/app/build/generated/res/resValues/debug
+com.zabi.al.builder.app-packageDebugResources-2 /data/data/com.termux/files/home/ai-chatbot/templates/android_webview_mvp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.zabi.al.builder.app-packageDebugResources-3 /data/data/com.termux/files/home/ai-chatbot/templates/android_webview_mvp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.zabi.al.builder.app-merged_res-4 /data/data/com.termux/files/home/ai-chatbot/templates/android_webview_mvp/app/build/intermediates/merged_res/debug
+com.zabi.al.builder.app-debug-5 /data/data/com.termux/files/home/ai-chatbot/templates/android_webview_mvp/app/src/debug/res
+com.zabi.al.builder.app-main-6 /data/data/com.termux/files/home/ai-chatbot/templates/android_webview_mvp/app/src/main/res

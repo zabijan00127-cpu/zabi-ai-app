@@ -1,0 +1,23 @@
+{
+  "project_info": {
+    "project_number": "955606574766",
+    "project_id": "zabi-al-builder-e4212",
+    "storage_bucket": "zabi-al-builder-e4212.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955606574766:android:bd8e0dc005c99404d7ef3f",
+        "android_client_info": {
+          "package_name": "com.zabi.generated"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZgqPQV0CL3TTU3TAwdmGIajZGYvPwJ0"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
