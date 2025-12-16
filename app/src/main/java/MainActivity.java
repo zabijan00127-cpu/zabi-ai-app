@@ -1,20 +1,22 @@
-package __PACKAGE__;
+package com.zabi.ai.builder;
 
 import android.os.Bundle;
-import android.webkit.WebSettings;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-    @Override protected void onCreate(Bundle savedInstanceState) {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        WebView w = new WebView(this);
-        setContentView(w);
 
-        WebSettings s = w.getSettings();
-        s.setJavaScriptEnabled(true);
+        WebView webView = new WebView(this);
+        webView.getSettings().setJavaScriptEnabled(true);
+        webView.setWebViewClient(new WebViewClient());
+        webView.loadUrl("https://google.com");
 
-        // Replace later with your hosted URL
-        w.loadUrl("https://example.com");
+        setContentView(webView);
     }
 }
