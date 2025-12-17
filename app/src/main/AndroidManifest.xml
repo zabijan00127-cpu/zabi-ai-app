@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.zabi.ai.app">
+    package="com.zabi.ai.builder">
 
     <!-- Internet permission -->
     <uses-permission android:name="android.permission.INTERNET"/>
