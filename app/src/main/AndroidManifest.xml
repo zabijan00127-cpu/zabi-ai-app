@@ -1,7 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.zabi.ai.builder">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!-- Internet permission -->
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
@@ -17,8 +15,8 @@
             android:exported="true">
 
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
 
         </activity>
