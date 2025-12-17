@@ -1,4 +1,4 @@
-package com.zabi.ai.app;
+package com.zabi.al.builder;
 
 import android.os.Bundle;
 import android.webkit.WebView;
